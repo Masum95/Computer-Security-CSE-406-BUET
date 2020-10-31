@@ -1,17 +1,15 @@
-There are some welll known cipher techniques in this repo.
-In **substitution** cipher, the frequency technique has been exploited. <span style="color: green">Input format for the substitution cipher is as follows </span>
-```
-Cipher-text
-Most frequently used three letters
-Some of the words from in plain-text
-```
 
- [DES](https://en.wikipedia.org/wiki/Data_Encryption_Standard) ,implemented here, is a slightly modified version from the stanard one. No S-box has been used.  
-<span style="color:green">Input format for this cipher</span>
+# Computer-Security-CSE-406-BUET
 
-```
-Key
-Plain-text
+This repo contains LAB assignments and contents of Computer Security  course in Level-4, Term-1 ofJanuary 2019 session of CSE, BUET
+  
+**Course Assignments/Tasks:**
 
-Matrix as per input2.txt order
-```
+- DES cipher
+- Substitution Cipher
+- CSRF
+- Buffer Overflow Attack
+
+
+
+
